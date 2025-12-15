@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /
   - title: "CV"
-    url: /files/ Akimov_CV.pdf
+    url: /files/Akimov_CV.pdf
   # Remove or comment out what you don't need:
   # - title: "Publications"
   #   url: /publications/
