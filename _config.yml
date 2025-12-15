@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Nikita Akimov"
 title_separator          : "-"
 name                     : &name "Nikita Akimov"
-description              : &description "Third-year PhD Student in Quantitative Marketing at Haas School of Business, University of California, Berkeley"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Student in Quantitative Marketing"   # Update this with a general description of your site, this is the default if not overridden by a page
 url             : "https://akimovhhh.github.io"
 baseurl         : ""
 repository      : "akimovhhh/akimovhhh.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : "He/him"
   bio              : "Third-year PhD Student in Quantitative Marketing at Haas School of Business, University of California, Berkeley"
   location         : "Albany, CA"
-  employer         : "Haas School of Business, University of California, Berkeley"
+  employer         : "Haas School of Business"
   uri              : # URL
   email            : "akimovh@berkeley.edu"
 
