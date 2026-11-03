@@ -16,3 +16,12 @@ Dynamic demand models typically assume rational expectations: consumers know the
 
 ### Consumer Search in the AI Era
 with [Sarah Moshary](https://sites.google.com/site/sarahmoshary/)
+
+## Teaching
+
+Graduate Student Instructor / Reader, Haas School of Business, University of California, Berkeley
+
+- **XMBA 206: Marketing Organization and Management** (Spring 2027, scheduled)
+- **UGBA 106: Marketing** (Spring 2026)
+- **UGBA 192T: Brands and Sustainability** (Spring 2026)
+- **EWMBA 206: Marketing Organization & Management** (Fall 2025)
