@@ -12,7 +12,7 @@ I am a PhD candidate in Quantitative Marketing at the Haas School of Business, U
 ## Research in Progress
 
 ### Consumer Demand during Periods of Price Volatility
-*Abstract coming soon.*
+Dynamic demand models typically assume rational expectations: consumers know the true distribution of future prices. That may be reasonable in stable markets, but what happens during sharp regime shifts? I study this question in the U.S. retail egg market, where unpredictable avian flu outbreaks caused extreme price volatility. I am developing a structural model of dynamic consumer demand that relaxes rational expectations. In the model, consumers learn about the price process as it changes. The goal is to understand how beliefs shape stockpiling and price sensitivity, and how accounting for these beliefs changes estimates of demand.
 
 ### Consumer Search in the AI Era
 with [Sarah Moshary](https://sites.google.com/site/sarahmoshary/)
